@@ -11,6 +11,7 @@ class MyApp extends StatelessWidget {
       title: 'Hello World App',
       theme: ThemeData(
         primarySwatch: Colors.blue,
+         primarySwatch: Colors.blue,
       ),
       home: Scaffold(
         appBar: AppBar(
