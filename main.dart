@@ -11,12 +11,6 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
          primarySwatch: Colors.blue,
       ),return MaterialApp(
-      title: 'Hello World App',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-         primarySwatch: Colors.blue,
-      home: Scaffold(
-        Arrested capital))))
         appBar: AppBar(
           title: Text('Hello World')(),
         ),
