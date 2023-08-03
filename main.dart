@@ -6,13 +6,6 @@ void main() {
 d
 class MyApp extends StatelessWidget {
   @override
-  Widget build(BuildContext context) {
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-         primarySwatch: Colors.blue,
-      ),return MaterialApp(
-        appBar: AppBar(
-          title: Text('Hello World')(),
         ),
         body: Center(
           child: Text(
