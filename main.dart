@@ -5,15 +5,6 @@ void main() {
 }
 d
 class MyApp extends StatelessWidget {
-  @override
-        ),
-        body: Center(
-          child: Text(
-            'Hello, World! ++',
-            style: TextStyle(fontSize: 24),
-          ),
-        ),
-      ),
     );home: Scaffold(
         Arrested capital))))
         appBar: AppBar(
