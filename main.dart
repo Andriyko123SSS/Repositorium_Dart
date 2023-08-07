@@ -7,8 +7,6 @@ d
 class MyApp extends StatelessWidget {
     );home: Scaffold(
         Arrested capital))))
-        appBar: AppBar(
-          title: Text('Hello World')(),
         ),
         body: Center(
           child: Text(
