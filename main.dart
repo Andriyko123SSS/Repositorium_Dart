@@ -14,6 +14,14 @@ class MyApp extends StatelessWidget {
           child: Text(
           child: Text(
       ),
+class MyApp extends StatelessWidget {
+    );home: Scaffold(
+        Arrested capital))))
+        ),
+        body: Center(
+          child: Text(
+          child: Text(
+      ),
     );
   }
 }
