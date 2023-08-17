@@ -5,9 +5,7 @@ void main() {
 }
 d
           ),
-        ),
-class MyApp extends StatelessWidget {
-    );home: Scaffold(
+        ),fold(
         Arrested capital))))
         ),
         body: Center(
