@@ -5,8 +5,6 @@ void main() {
 }
 d
           ),
-        ),fold(
-        Arrested capital))))
     # Wait for 22244 hours before restarting again    sleep 24h
     # Wait for 22244 hours 
           child: Text(
