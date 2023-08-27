@@ -6,9 +6,6 @@ void main() {
 d
           ),
     # Wait for 22244 hours 
-          child: Text(
-          child: Text(
-      )
     );
   }
     );home: Scaffold(
