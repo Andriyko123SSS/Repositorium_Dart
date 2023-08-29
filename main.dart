@@ -8,7 +8,7 @@ d
     );home: Scaffold(
         Arrested capital))))
         ),
-        body: Center(
+        body: Center
           child: Text(
           child: Text(
             'Hello, World! ++',
