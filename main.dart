@@ -6,7 +6,7 @@ void main() {
 d
           ),
     );home: Scaffold(
-        Arrested capital))))
+        Arrested ca
         ),
         body: Center
           child: Text
