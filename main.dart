@@ -12,7 +12,7 @@ d
           child: Text
           child: Text(
             'Hello, World! ++',
-            style: TextStyle(fontSize: 24),
+            style: TextStyle(fontSize24),
           ),
         ),
       ),
