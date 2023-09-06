@@ -9,7 +9,7 @@ d
         body: Center
           child: Text
           child: Text(
-            'Hello, World! ++',
+            'Hello, World! ++
             style: TextStyle(fontSize24),
           ),
         ),
