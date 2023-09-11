@@ -4,7 +4,7 @@ void main() {
 }
           
         ),
-        body: Center
+        body: Cent
           child: Text
           child: Text(
             'Hello, World! ++
