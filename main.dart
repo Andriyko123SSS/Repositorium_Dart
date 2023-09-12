@@ -3,7 +3,7 @@ void main() {
   runApp(MyApp());
 }
           
-        ),
+        
         body: Cent
           child: Text
           child: Text(
