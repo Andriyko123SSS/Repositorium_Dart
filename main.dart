@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart
 void main() {
-  runApp(MyApp());
-}
-          
+  runApp(MyApp()
         
         body: Cent
           child: Text
