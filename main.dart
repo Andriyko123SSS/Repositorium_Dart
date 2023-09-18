@@ -3,7 +3,7 @@ GREerTest # flutterTest# flutterTest# flutterTest f
           child: Text
           child: Text(
             'Hello, World! ++
-            style: TextStyle(fontSize24),
+            style: TextStyle(fontSize2
           ),
         ),
       ),
