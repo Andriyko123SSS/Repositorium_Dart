@@ -9,8 +9,7 @@ telessWid
         // is not restar
 telessWid
   // This widget is the root of your applica
-telessWidget {
-}
+telessWidget 
 class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {zero; the application
         // is not restarted.
