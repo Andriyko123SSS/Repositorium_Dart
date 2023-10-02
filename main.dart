@@ -5,8 +5,6 @@ GREerTest # flutterTest# flutterTest# flutterTest f
   Widget build(BuildContext context) {zero; the alit
 telessWid
   // This widget is the root of your applica
-        // is not restarted.
-      ),
     );
   }
 }
