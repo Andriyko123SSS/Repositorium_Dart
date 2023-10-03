@@ -13,9 +13,6 @@ class MyApp extends StatelessWidget {
         Arrested capital))))
         ),
             'Hello, World! ++',
-            style: TextStyle(fontSize: 24),
-          ),
-        ),
       ),
     );
   }
