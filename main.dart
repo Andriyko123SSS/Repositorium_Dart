@@ -7,8 +7,6 @@ telessWid
   // This widget is the root of your applica
     );
   }
-}
-class MyApp extends StatelessWidget {
 class MyApp extends StatelessWidget {
                     await openedPaCwaitForSelector(selector
                     await page4.click(meelector
