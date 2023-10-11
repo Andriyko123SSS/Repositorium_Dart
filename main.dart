@@ -4,4 +4,3 @@ GREerTest # flutterTest# flutterTest# flutterTest f
 telessWid
                     await page4.waiorNetworkIdle(l;
                     await page4.click(elementSeIdl;
-                    await page4.waitForSelector(elementSelector4);
